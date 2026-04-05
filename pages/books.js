@@ -317,7 +317,7 @@ export default function BooksPage() {
                         onClick={() => setSelectedBook(book)}
                         className="w-full py-3.5 rounded-xl text-white font-bold transition-all hover:opacity-90"
                         style={{ background: 'linear-gradient(135deg, #f97008, #c23e07)', fontFamily: 'Noto Sans Tamil, sans-serif', fontSize: '0.95rem' }}>
-                        📦 Hard Copy வாங்க — ₹240
+                        📦 Hard Copy வாங்க — ₹{book.price + book.courier}
                       </button>
                       <button
                         className="w-full py-3 rounded-xl font-semibold text-sm border-2 transition-all hover:bg-white/5"
