@@ -17,7 +17,7 @@ export default function BlogPost({ post }) {
 
   const handleShare = (platform) => {
     const url = encodeURIComponent(typeof window !== 'undefined' ? window.location.href : '');
-    const text = encodeURIComponent(`${post.title} - சென்தில் ஜகன்னாதன்`);
+    const text = encodeURIComponent(`${post.title} - செந்தில் ஜெகன்நாதன்`);
     const urls = {
       whatsapp: `https://wa.me/?text=${text}%20${url}`,
       facebook: `https://www.facebook.com/sharer/sharer.php?u=${url}`,
@@ -74,7 +74,7 @@ export default function BlogPost({ post }) {
             <div className="w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold text-white"
               style={{ background: 'linear-gradient(135deg, #f97008, #c80030)' }}>ச</div>
             <span className="text-sm" style={{ color: '#d0bba5', fontFamily: 'Noto Serif Tamil, serif' }}>
-              சென்தில் ஜகன்னாதன்
+              செந்தில் ஜெகன்நாதன்
             </span>
           </div>
         </div>

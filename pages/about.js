@@ -92,7 +92,7 @@ export default function AboutPage() {
             எழுத்து என்பது என் மூச்சு. வாசிப்பு என்பது என் உணவு. தமிழ் என்பது என் ஆத்மா.
           </blockquote>
           <div className="text-base" style={{ color: '#7d5a3c', fontFamily: 'Noto Serif Tamil, serif' }}>
-            — சென்தில் ஜகன்னாதன்
+            — செந்தில் ஜெகன்நாதன்
           </div>
         </div>
       </section>

@@ -94,11 +94,11 @@ export default function Home() {
               {/* Author name */}
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black text-white mb-2 leading-tight"
                 style={{ fontFamily: 'Noto Serif Tamil, serif', textShadow: '0 2px 20px rgba(249,112,8,0.3)' }}>
-                சென்தில்
+                செந்தில்
               </h1>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black mb-4 leading-tight"
                 style={{ fontFamily: 'Noto Serif Tamil, serif', color: '#f97008', textShadow: '0 2px 20px rgba(249,112,8,0.4)' }}>
-                ஜகன்னாதன்
+                ஜெகன்நாதன்
               </h1>
               <div className="text-lg sm:text-xl mb-2" style={{ color: '#b89478', fontFamily: 'Playfair Display, serif', fontStyle: 'italic' }}>
                 Senthil Jaganathan
@@ -187,7 +187,7 @@ export default function Home() {
             என் படைப்புகளுக்கு நீங்கள் வந்திருப்பதற்கு நன்றி. இந்த வலைதளத்தில் என் புத்தகங்களை வாங்கலாம், கட்டுரைகளை படிக்கலாம், என்னோடு தொடர்பு கொள்ளலாம். வாசிப்பே வாழ்க்கை!
           </p>
           <div className="text-base" style={{ color: '#f97008', fontFamily: 'Noto Serif Tamil, serif', fontWeight: 600 }}>
-            — சென்தில் ஜகன்னாதன்
+            — செந்தில் ஜெகன்நாதன்
           </div>
         </div>
       </section>
@@ -225,7 +225,7 @@ export default function Home() {
                       {book.subtitle}
                     </div>
                     <div className="text-2xl font-black" style={{ color: '#f97008' }}>₹200</div>
-                    <div className="text-xs mt-1" style={{ color: '#9a7055' }}>+ ₹40 courier = ₹240 total</div>
+                    <div className="text-xs mt-1" style={{ color: '#9a7055' }}>+ ₹40. courier = ₹240 total</div>
                   </div>
                 </div>
 
