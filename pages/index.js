@@ -34,7 +34,7 @@ const BookCover = ({ book, size = 'sm' }) => {
           <div className="text-white/70 text-xs" style={{ fontFamily: 'Noto Serif Tamil, serif' }}>
             {book.subtitle}
           </div>
-          <div className="mt-2 text-xs font-bold" style={{ color: '#fcd34d' }}>₹200</div>
+          <div className="mt-2 text-xs font-bold" style={{ color: '#fcd34d' }}>₹203</div>
         </div>
       </div>
       {/* Decorative corner */}
@@ -224,7 +224,7 @@ export default function Home() {
                     <div className="text-sm mb-3" style={{ color: '#b89478', fontFamily: 'Noto Serif Tamil, serif' }}>
                       {book.subtitle}
                     </div>
-                    <div className="text-2xl font-black" style={{ color: '#f97008' }}>₹200</div>
+                    <div className="text-2xl font-black" style={{ color: '#f97008' }}>₹202</div>
                     <div className="text-xs mt-1" style={{ color: '#9a7055' }}>+ ₹40 courier = ₹240 total</div>
                   </div>
                 </div>

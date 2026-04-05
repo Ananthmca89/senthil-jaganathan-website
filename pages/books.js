@@ -306,7 +306,7 @@ export default function BooksPage() {
                     style={{ background: 'linear-gradient(135deg, #2a1d14, #3d2b1e)' }}>
                     <BookCoverLarge book={book} />
                     <div className="text-center">
-                      <div className="text-3xl font-black mb-1" style={{ color: '#f97008' }}>₹200</div>
+                      <div className="text-3xl font-black mb-1" style={{ color: '#f97008' }}>₹201</div>
                       <div className="text-sm" style={{ color: '#b89478', fontFamily: 'Noto Sans Tamil, sans-serif' }}>
                         + ₹40 Courier = மொத்தம் <strong style={{ color: '#fcd34d' }}>₹240</strong>
                       </div>
