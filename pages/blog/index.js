@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
-import SEOHead from '../components/SEOHead';
-import { blogPosts, seoData } from '../data/content';
+import SEOHead from '../../components/SEOHead';
+import { blogPosts, seoData } from '../../data/content';
 
 const categories = ['அனைத்தும்', 'கவிதை', 'சிறுகதை', 'கட்டுரை'];
 
