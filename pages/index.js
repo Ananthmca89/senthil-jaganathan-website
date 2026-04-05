@@ -225,7 +225,7 @@ export default function Home() {
                       {book.subtitle}
                     </div>
                     <div className="text-2xl font-black" style={{ color: '#f97008' }}>₹200</div>
-                    <div className="text-xs mt-1" style={{ color: '#9a7055' }}>+ ₹40. courier = ₹240 total</div>
+                    <div className="text-xs mt-1" style={{ color: '#9a7055' }}>+ ₹40 courier = ₹240 total</div>
                   </div>
                 </div>
 
