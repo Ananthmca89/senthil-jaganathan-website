@@ -11,7 +11,7 @@ export default function ContactPage() {
     setSubmitted(true);
   };
 
-  const whatsappMessage = encodeURIComponent('வணக்கம் சென்தில் ஜகன்னாதன் அவர்களே, நான் உங்களிடம் பேச விரும்புகிறேன்.');
+  const whatsappMessage = encodeURIComponent('வணக்கம் செந்தில் ஜெகன்நாதன் அவர்களே, நான் உங்களிடம் பேச விரும்புகிறேன்.');
 
   return (
     <>

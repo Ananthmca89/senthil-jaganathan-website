@@ -1,4 +1,4 @@
-# சென்தில் ஜகன்னாதன் — Tamil Author Website
+# செந்தில் ஜெகன்நாதன் — Tamil Author Website
 ## Senthil Jaganathan Official Author Website
 
 A professional Tamil author website built with Next.js, React, and Tailwind CSS.

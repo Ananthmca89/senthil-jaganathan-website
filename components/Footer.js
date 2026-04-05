@@ -18,7 +18,7 @@ export default function Footer() {
               </div>
               <div>
                 <div className="text-white text-lg" style={{ fontFamily: 'Noto Serif Tamil, serif', fontWeight: 700 }}>
-                  சென்தில் ஜகன்னாதன்
+                  செந்தில் ஜெகன்நாதன்
                 </div>
                 <div className="text-sm" style={{ color: '#fcd34d' }}>Tamil Author & Poet</div>
               </div>

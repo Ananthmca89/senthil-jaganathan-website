@@ -34,7 +34,7 @@ export default function AboutPage() {
               About · என்னை பற்றி
             </div>
             <h1 className="text-4xl sm:text-5xl font-black text-white mb-2" style={{ fontFamily: 'Noto Serif Tamil, serif' }}>
-              சென்தில் ஜகன்னாதன்
+              செந்தில் ஜெகன்நாதன்
             </h1>
             <div className="text-xl mb-4" style={{ color: '#fcd34d', fontFamily: 'Playfair Display, serif', fontStyle: 'italic' }}>
               Senthil Jaganathan

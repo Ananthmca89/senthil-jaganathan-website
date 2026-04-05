@@ -39,7 +39,7 @@ export default function BlogPost({ post }) {
   return (
     <>
       <SEOHead
-        title={`${post.title} | சென்தில் ஜகன்னாதன்`}
+        title={`${post.title} | செந்தில் ஜெகன்நாதன்`}
         description={post.excerpt}
         keywords={post.tags.join(', ')}
         structuredData={articleStructuredData}
@@ -144,7 +144,7 @@ export default function BlogPost({ post }) {
               </div>
               <div>
                 <div className="text-white font-bold mb-1" style={{ fontFamily: 'Noto Serif Tamil, serif' }}>
-                  சென்தில் ஜகன்னாதன்
+                  செந்தில் ஜெகன்நாதன்
                 </div>
                 <div className="text-sm mb-3" style={{ color: '#b89478', fontFamily: 'Lora, serif' }}>
                   Tamil Author & Poet

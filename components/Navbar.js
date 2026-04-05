@@ -38,7 +38,7 @@ export default function Navbar() {
             </div>
             <div>
               <div className="tamil-heading text-white text-base leading-tight" style={{ fontFamily: 'Noto Serif Tamil, serif' }}>
-                சென்தில் ஜகன்னாதன்
+                செந்தில் ஜெகன்நாதன்
               </div>
               <div className="text-xs" style={{ color: '#fcd34d', fontFamily: 'Lora, serif', letterSpacing: '0.05em' }}>
                 Tamil Author

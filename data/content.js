@@ -148,7 +148,7 @@ export const authorInfo = {
   education: "இளங்கலை உயிர்மவேதியியல், SKSS கலைக் கல்லூரி, திருப்பனந்தாள் | MBA, சென்னைப் பல்கலைக்கழகம்",
   location: "பனம்பள்ளி, மயிலாடுதுறை, தமிழ்நாடு",
   phone: "+91 97900 30749",
-  email: "",
+  email: "senthiljaganathan56@gmail.com",
   whatsapp: "+919790030749",
   upiId: "9790030749@ybl",
   awards: [

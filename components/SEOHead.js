@@ -50,7 +50,7 @@ export default function SEOHead({ title, description, keywords, ogImage, url, ty
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Senthil Jaganathan",
-        "alternateName": "சென்தில் ஜகன்னாதன்",
+        "alternateName": "செந்தில் ஜெகன்நாதன்",
         "url": siteUrl,
         "jobTitle": "Author",
         "description": "Tamil author and poet from Tamil Nadu, India",
